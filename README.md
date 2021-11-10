@@ -1,0 +1,2 @@
+# armcoin
+arm
